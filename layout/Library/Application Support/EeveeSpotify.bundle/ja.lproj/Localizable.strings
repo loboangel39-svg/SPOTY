@@ -138,4 +138,4 @@ ad_free_music_listening = "広告ナシで音楽が聴ける";
 play_songs_in_any_order = "好きな曲順で再生";
 organize_listening_queue = "次に再生する楽曲のリストを整理できる";
 
-payment_notice = "EeveeSpotifyは、無料で一部のプレミアムの機能を使えるようにするパッチを適用します。";
+payment_notice = "プレミアムサブスクリプションが有効です。";

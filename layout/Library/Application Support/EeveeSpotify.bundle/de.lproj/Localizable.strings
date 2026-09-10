@@ -134,5 +134,5 @@ lrclib_api = "Server Adresse";
 ad_free_music_listening = "Werbefrei Musik hören";
 play_songs_in_any_order = "Musik in beliebiger Reihenfolge abspielen";
 organize_listening_queue = "Wiedergabeliste anpassen";
-payment_notice = "EeveeSpotify wendet Patches an, um bestimmte Premium-Funktionen freizuschalten. Es ist kostenlos.";
+payment_notice = "Premium-Abonnement aktiv.";
  

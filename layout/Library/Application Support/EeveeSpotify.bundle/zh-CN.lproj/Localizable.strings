@@ -128,4 +128,4 @@ ad_free_music_listening = "无广告聆听音乐";
 play_songs_in_any_order = "以任意顺序播放歌曲";
 organize_listening_queue = "整理播放队列";
 
-payment_notice = "EeveeSpotify 已应用补丁来解锁部分高级功能，免费使用。";
+payment_notice = "高级订阅已激活。";
